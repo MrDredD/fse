@@ -1,2 +1,3 @@
-#!bin/bash 
-from .nodule_b import hyperbola
+#!bin/bash
+from .module_a import polynom_3
+from .module_b import hyperbola
